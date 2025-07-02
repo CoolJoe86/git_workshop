@@ -15,7 +15,10 @@ class Calculator:
 
 	def power(num_1, num_2):
 		return num_1^num_2
-		
+	
+	def function(num_1,num_2):
+		return 0
+
 if __name__ == "__main__":
 	calc = Calculator()
 	calc.add(2, 2)
