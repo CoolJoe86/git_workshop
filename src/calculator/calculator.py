@@ -13,6 +13,9 @@ class Calculator:
 	def mul(num_1, num_2):
 		return num_1 * num_2
 
+	def power(num_1, num_2):
+		return num_1^num_2
+		
 if __name__ == "__main__":
 	calc = Calculator()
 	calc.add(2, 2)
