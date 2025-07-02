@@ -8,7 +8,7 @@ class Calculator:
 		return num_1
 
 	def div(num_1, num_2):
-		return num_1
+		return num_1/num_2
 
 	def mul(num_1, num_2):
 		return num_1 * num_2
